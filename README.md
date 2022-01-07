@@ -3,7 +3,7 @@
 <hr>
 <h3>✨Um pouco sobre mim</h3>
 <div>
- <li>👨 Tenho 13 anos</li>
+ <li>👨 Tenho 14 anos</li>
  <li>💻 Sou fanatico por tecnologia</li>
  <li>❤ Uma das coisas que mais gosto é programar</li>
  <li>🌐 Atualmente ajudo All Star City RP: <a href="https://allstarcity.com.br/">Acessar Site</a></li>
