@@ -14,8 +14,8 @@
   <img height="50" width="50" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="50" width="50" title="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50" width="50" title="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img height="50" width="50" title="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img height="50" width="50" title="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img height="50" width="50" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img height="50" width="50" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img height="50" width="50" title="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">
   <img height="50" width="50" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img height="50" width="50" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
