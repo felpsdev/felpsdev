@@ -6,7 +6,6 @@
  <li>👨 Tenho 14 anos</li>
  <li>💻 Sou fanatico por tecnologia</li>
  <li>❤ Uma das coisas que mais gosto é programar</li>
- <li>🌐 Atualmente ajudo All Star City RP: <a href="https://allstarcity.com.br/">Acessar Site</a></li>
 </div>
 <hr>
 <h3>🧰 Conheça algumas linguagens que uso:</h3>
