@@ -3,13 +3,14 @@
 <hr>
 <h3>✨Um pouco sobre mim</h3>
 <div>
+ <li>🕊️ Aprendendo para fazer historia rs</li>
  <li>👨 Tenho 14 anos</li>
  <li>💻 Sou fanatico por tecnologia</li>
  <li>❤ Uma das coisas que mais gosto é programar</li>
  <li>🕊️ Aprendendo para fazer historia rs</li>
 </div>
 <hr>
-<h3>🧰 Conheça algumas linguagens que uso:</h3>
+<h3>🧰 Conheça algumas tecnologias que uso:</h3>
 <div style="display: inline_block;">
   <img height="50" width="50" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="50" width="50" title="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
