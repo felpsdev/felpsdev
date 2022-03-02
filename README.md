@@ -7,7 +7,6 @@
  <li>👨 Tenho 14 anos</li>
  <li>💻 Sou fanatico por tecnologia</li>
  <li>❤ Uma das coisas que mais gosto é programar</li>
- <li>🕊️ Aprendendo para fazer historia rs</li>
 </div>
 <hr>
 <h3>🧰 Conheça algumas tecnologias que uso:</h3>
