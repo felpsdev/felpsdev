@@ -5,7 +5,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="160em" />
 <h3>✨Um pouco sobre mim</h3>
 <div>
- <li>🕊️ Aprendendo para fazer historia rs</li>
+ <li>🕊️ Aprendendo enquanto programo</li>
  <li>👨 Tenho 14 anos</li>
  <li>💻 Sou fanatico por tecnologia</li>
  <li>❤ Uma das coisas que mais gosto é programar</li>
