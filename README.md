@@ -38,7 +38,7 @@
 <hr>
 <h3>🏆 Meus status no GitHub</h3>
  <div style="display: inline-block;">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=felpsdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=091d3d"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsdev&layout=compact&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=091d3d&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=felpsdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsdev&layout=compact&theme=dark&title_color=3b86ff&icon_color=3b86ff&hide_border=true&bg_color=0d1117&count_private=true"/>
 </div>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=felpsdev&layout=compact&langs_count=4&theme=dark&hide_border=true&bg_color=091d3d&color=3b86ff&line=3b86ff" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=felpsdev&layout=compact&langs_count=4&theme=dark&hide_border=true&bg_color=0d1117&color=3b86ff&line=3b86ff" />
