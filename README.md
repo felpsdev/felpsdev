@@ -24,6 +24,6 @@
 <hr>
 <h3>🏆 Status no GitHub</h3>
  <div style="display: inline-block;">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=felpsdev&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsdev&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="49.5%" height=200 src="https://github-readme-stats.vercel.app/api?username=felpsdev&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="49.5%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsdev&theme=jolly&show_icons=true&hide_border=true&layout=compact"/>
 </div>
